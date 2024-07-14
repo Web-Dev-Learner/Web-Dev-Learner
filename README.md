@@ -1,4 +1,7 @@
- - 👋 Hi, I’m **SHRINEDHI.M.R.**
+
+
+- 👋 Hi, I’m **SHRINEDHI.M.R.**
+  
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning **DSA**.
 - 👯 I’m looking to collaborate on **Front-End Development** projects.
