@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me :
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shrinedhi-m-r-6998682a0/)
-- 😄 Pronouns: Techie
+- 😄 Pronouns: Webweaver
 
 
 ### I code in
