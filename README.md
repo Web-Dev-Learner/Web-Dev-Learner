@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 - 👋 Hi, I’m **SHRINEDHI.M.R.**
   
 - 👀 I’m interested in web development.
