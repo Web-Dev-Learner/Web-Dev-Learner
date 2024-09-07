@@ -1,5 +1,4 @@
-<img align="right" width="370" height="290" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681562508365/k96z0x3Vj.gif">
-
+<img align="right" width="370" height="290" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 - 👋 Hi, I’m **SHRINEDHI.M.R.**
   
