@@ -1,3 +1,5 @@
+<img align="right" width="370" height="290" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681562508365/k96z0x3Vj.gif">
+
 
 - 👋 Hi, I’m **SHRINEDHI.M.R.**
   
