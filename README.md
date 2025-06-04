@@ -1,7 +1,55 @@
+
+
+
 <img align="right" width="370" height="290" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
+
+### 👋 Hi, I’m **SHRINEDHI M R**
+
+💻 **Frontend Developer** | **Software Developer** | **B.Tech IT Graduate (2025)**  
+🚀 **MERN Stack Learner** | **Infosys Springboard Intern (Python)**  
+🌟 **Contributor at GSSoC - Extended 2024** | **Python Problem Solver**  
+🔧 **DevOps Enthusiast** | **Fresh Coder** | **Open Source Contributor**
+
+---
+
+### 👀 Interests
+- Web Development and Full-Stack Projects
+- Clean UI/UX Design and Responsive Frontend
+- Exploring DevOps and Backend Technologies
+
+### 🌱 Currently Learning
+- Data Structures and Algorithms (DSA)
+- Aptitude & Interview Prep (Off-Campus)
+- Building Projects with Full MERN Stack
+
+### 🤝 Open To
+- Frontend / Full-Stack Development Projects
+- Internships and Entry-Level Software Roles
+- Placement Guidance and Collaboration Opportunities
+
+
+----
+
+- 📫 How to reach me :
+<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shrinedhi-m-r-6998682a0/)
+- 😄 Pronouns: Webweaver
+
+---
+Feel free to explore my projects and reach out if you have any questions or ideas to share! Contributions, feedback, and collaborations are always welcome. Thanks for stopping by! 😊
+
+
+
+<!--
 - 👋 Hi, I’m **SHRINEDHI.M.R.**
   
+<img align="right" width="370" height="290" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt="coding-girl" />
+
+
+<p align="center">
+  <em>Frontend Developer | Final-year B.Tech Graduate | MERN Stack Learner | Open Source Contributor</em>
+</p>
+
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning **DSA**.
 - 👯 I’m looking to collaborate on **Front-End Development** projects.
@@ -16,7 +64,7 @@
 Feel free to explore my projects and reach out if you have any questions or ideas to share! Contributions, feedback, and collaborations are always welcome. Thanks for stopping by! 😊
 
 
-
+--->
 
 
 
