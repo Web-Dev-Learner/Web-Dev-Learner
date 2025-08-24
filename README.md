@@ -6,9 +6,12 @@
 
 ### 👋 Hi, I’m **SHRINEDHI M R**
 
-💻 **Full Stack Developer @ Nirvaaha** | **Software Engineer** |**Python Developer**| **B.Tech IT Graduate (2025)**  
-🚀  **Infosys Springboard Intern (Python)** |**Contributor at GSSoC - Extended 2024**
-🌟  **Python Problem Solver** | **MERN Stack** |**Tech Explorer**
+💻 **Full Stack Developer @ Nirvaaha** | **Software Engineer** | **Python Developer** | **B.Tech IT Graduate (2025)**  
+
+🚀 **Infosys Springboard Intern (Python)** | **Contributor at GSSoC - Extended 2024**
+
+🌟 **Python Problem Solver** | **MERN Stack** |**Tech Explorer**
+
 🔧 **DevOps Enthusiast** | **Fresh Coder** | **Open Source Contributor**
 
 ---
