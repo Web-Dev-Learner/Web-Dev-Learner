@@ -6,27 +6,30 @@
 
 ### 👋 Hi, I’m **SHRINEDHI M R**
 
-💻 **Frontend Developer** | **Software Developer** | **B.Tech IT Graduate (2025)**  
-🚀 **MERN Stack Learner** | **Infosys Springboard Intern (Python)**  
-🌟 **Contributor at GSSoC - Extended 2024** | **Python Problem Solver**  
+💻 **Full Stack Developer @ Nirvaaha** | **Software Engineer** |**Python Developer**| **B.Tech IT Graduate (2025)**  
+🚀  **Infosys Springboard Intern (Python)** |**Contributor at GSSoC - Extended 2024**
+🌟  **Python Problem Solver** | **MERN Stack** |**Tech Explorer**
 🔧 **DevOps Enthusiast** | **Fresh Coder** | **Open Source Contributor**
 
 ---
 
 ### 👀 Interests
-- Web Development and Full-Stack Projects
-- Clean UI/UX Design and Responsive Frontend
-- Exploring DevOps and Backend Technologies
+- Full-Stack Development
+- Software Engineering
+- SaaS Product Development
+- DevOps & Deployment
+- System Design & Architecture
 
 ### 🌱 Currently Learning
-- Data Structures and Algorithms (DSA)
-- Aptitude & Interview Prep (Off-Campus)
-- Building Projects with Full MERN Stack
+- Data Structures & Algorithms (DSA)
+- System Design & Architecture
+- DevOps & Deployment
+- Interview & Off-Campus Preparation
 
 ### 🤝 Open To
-- Frontend / Full-Stack Development Projects
-- Internships and Entry-Level Software Roles
-- Placement Guidance and Collaboration Opportunities
+- Full-Stack / Software Engineering Roles / MERN 
+- SaaS Product Development & DevOps Projects
+- Open Source Contributions and Collaborations
 
 
 ----
